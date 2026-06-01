@@ -4,7 +4,7 @@
 
 <h3 align="left">A passionate frontend developer.</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I am currently pursuing a postgraduate degree in **Software Engineering with Applied AI**
 
 - 📫 How to reach me **luisfelipesesf@gmail.com**
 
